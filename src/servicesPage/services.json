@@ -1,0 +1,8 @@
+{"services" : [
+    {"service_name": "Project Plan", "service_content": "Meticulously manage every detail of your construction project with our tailored planning solutions."},
+    {"service_name": "Interior Work", "service_content": "Transform your space with our expert interior designs that blend functionality and aesthetic appeal."},
+    {"service_name": "Retail Design", "service_content": "Create engaging retail spaces that attract customers and enhance the shopping experience."},
+    {"service_name": "2d/3d Art Work", "service_content": "Bring your visions to life with stunning 2D and 3D artwork using the latest technology."},
+    {"service_name":  "Interior Designs", "service_content": "Revamp your interiors with our innovative designs, tailored to reflect your unique style and needs."},
+    {"service_name": "Decoration Work", "service_content": "Meticulously manage every detail of your construction project with our tailored planning solutions."}
+]}

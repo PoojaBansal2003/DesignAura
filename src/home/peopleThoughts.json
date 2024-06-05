@@ -1,0 +1,19 @@
+{
+    "people": [
+        {
+            "fullname": "Sophia Turner", 
+            "country": "Toronto, Canada", 
+            "thoughts": "Design is not just what it looks like and feels like. Design is how it works."
+        },
+        {
+            "fullname": "Liam Johnson", 
+            "country": "Auckland, New Zealand", 
+            "thoughts": "The best rooms have something to say about the people who live in them."
+        },
+        {
+            "fullname": "Emily Clarke", 
+            "country": "London, UK", 
+            "thoughts": "A room should never allow the eye to settle in one place. It should smile at you and create fantasy."
+        }
+    ]
+}
