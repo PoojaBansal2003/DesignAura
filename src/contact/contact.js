@@ -17,7 +17,7 @@ export function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(e.target.mail.value);
+    console.log(e.target.email.value);
     emailjs.sendForm('service_7f5qe7x', 'template_w5zhrfp', e.target, 'qD0OchSQvhfpD4NW8')
       .then((result) => {
         console.log('Email sent successfully:', result);
